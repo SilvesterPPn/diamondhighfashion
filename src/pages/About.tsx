@@ -87,7 +87,7 @@ export default function About(): React.ReactElement {
               innovation, precision, and artistic integrity.
             </p>
             <Link
-              to="/portfolio"
+              to="/collections"
               className="inline-block border border-white text-white px-8 py-3 rounded-full text-sm font-medium hover:bg-white hover:text-black transition-all duration-300"
             >
               View Our Works
@@ -130,4 +130,5 @@ export default function About(): React.ReactElement {
     </main>
   );
 }
+
 
