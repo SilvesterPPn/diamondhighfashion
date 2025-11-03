@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import WhyChooseUs from "../component/WhyChooseUs";
 import Faq from "../component/Faq";
 
 export default function About(): React.ReactElement {
@@ -131,3 +130,4 @@ export default function About(): React.ReactElement {
     </main>
   );
 }
+
